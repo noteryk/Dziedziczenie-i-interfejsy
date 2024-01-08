@@ -1,0 +1,1 @@
+# Dziedziczenie-i-interfejsy
